@@ -10,7 +10,7 @@
 
 이미지
 
-.![다운로드](D:\Storage\Github\clickgo\images\다운로드.png)
+.![다운로드](images/다운로드.png)
 
 
 
